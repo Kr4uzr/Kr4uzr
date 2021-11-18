@@ -9,4 +9,6 @@ the world is just what it is today because people decided to innovate and this i
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
 - ⚡ Fun fact: I love 80´s movies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr)
