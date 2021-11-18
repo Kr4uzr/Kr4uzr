@@ -11,4 +11,4 @@ the world is just what it is today because people decided to innovate and this i
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr&theme=radical)
