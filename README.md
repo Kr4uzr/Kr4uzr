@@ -8,3 +8,5 @@ the world is just what it is today because people decided to innovate and this i
 - 💬 Ask me about Python and cats. :D
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
 - ⚡ Fun fact: I love 80´s movies.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
