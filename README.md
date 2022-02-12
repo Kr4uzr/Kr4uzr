@@ -3,11 +3,10 @@ always thinking about the well being of those who will use my service, innovatio
 the world is just what it is today because people decided to innovate and this is my way. :D
 
 - 🔭 I’m currently working on JAT Transportes e Logística.
-- 🌱 I’m currently learning about React Native and Python.
+- 🌱 I’m currently learning about React Native, Python and JavaScript.
 - 🤔 I’m looking for help with Data analysis.
 - 💬 Ask me about Python and cats. :D
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
-- ⚡ Fun fact: I love 80´s movies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr&theme=radical)
 
