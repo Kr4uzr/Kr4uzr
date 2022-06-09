@@ -2,7 +2,7 @@ Hi, I’m @Kr4uzr also known as Bruno de Cássio, my English is not the best but
 always thinking about the well being of those who will use my service, innovation is my favorite word, 
 the world is just what it is today because people decided to innovate and this is my way. :D
 
-- 🔭 I’m currently working on JAT Transportes e Logística.
+- 🔭 I’m currently working on Krypton BPO.
 - 🌱 I’m currently learning about React Native, Python and JavaScript.
 - 🤔 I’m looking for help with Data analysis.
 - 💬 Ask me about Python and cats. :D
