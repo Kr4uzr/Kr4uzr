@@ -3,9 +3,8 @@ always thinking about the well being of those who will use my service, innovatio
 the world is just what it is today because people decided to innovate and this is my way. :D
 
 - 🔭 I’m currently working on Krypton BPO.
-- 🌱 I’m currently learning about React Native, Python and JavaScript.
-- 🤔 I’m looking for help with Data analysis.
-- 💬 Ask me about Python and cats. :D
+- 🌱 I’m currently learning about JavaScript.
+- 💬 Ask me about Js and cats. :D
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr&theme=radical)
