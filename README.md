@@ -6,5 +6,3 @@ the world is just what it is today because people decided to innovate and this i
 - 🌱 I’m currently learning about JavaScript.
 - 💬 Ask me about Js and cats. :D
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kr4uzr&theme=radical)
