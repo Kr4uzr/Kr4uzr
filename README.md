@@ -3,6 +3,6 @@ always thinking about the well being of those who will use my service, innovatio
 the world is just what it is today because people decided to innovate and this is my way. :D
 
 - 🔭 I’m currently working on Krypton BPO.
-- 🌱 I’m currently learning about JavaScript.
+- 🌱 I’m currently learning about TypeScript.
 - 💬 Ask me about Js and cats. :D
 - 📫 How to reach me: send mail to BrunoCassioFR52@gmail.com.
